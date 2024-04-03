@@ -33,6 +33,8 @@
 //          platforms
 //    0.0.1 First Official Release
 
+#include <assert.h>
+
 #ifndef _WIN32
 #include <dirent.h>
 #else // _WIN32
